@@ -12,4 +12,4 @@ It's up to you whether to open your eyes or not. It's up to you to believe if th
 3. Copy the `game` folder to `ux0:app/RNPYDNOPE`
 4. Enjoy the game 
 
-Created using Ren'Py PSVita Distribution Tool 
+Created using [Ren'Py PSVita Distribution Tool] (https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
