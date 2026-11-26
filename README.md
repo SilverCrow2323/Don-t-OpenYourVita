@@ -14,6 +14,10 @@ It's up to you whether to open your eyes or not. It's up to you to believe if th
 
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
 
+## Development validation
+
+Run `python3 tools/validate_vita_port.py` to check the Vita `param.sfo`, LiveArea XML/assets and documented title-ID paths. The same check runs automatically in GitHub Actions. This validates repository metadata; it does not claim that a VPK has been built or tested on hardware.
+
 ## 📚 Practical Wiki
 
 The [GitHub Wiki](https://github.com/SilverCrow2323/Don-t-OpenYourVita/wiki) covers installation, the expected `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); maintainers can publish with `sh tools/publish_wiki.sh`.
