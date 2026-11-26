@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "port_id": "dont-open-your-eyes",
+  "title": "Don't Open Your Eyes",
+  "repository": "https://github.com/SilverCrow2323/Don-t-OpenYourVita",
+  "platform": "psvita",
+  "engine": "renpy",
+  "status": "released",
+  "title_id": "RNPYDNOPE",
+  "game_data_path": "ux0:/app/RNPYDNOPE/",
+  "original_game_url": "https://via01.itch.io/dont-open-your-eyes",
+  "docs_path": "docs/ports/dont-open-your-eyes/README.md"
+}
