@@ -14,6 +14,6 @@ It's up to you whether to open your eyes or not. It's up to you to believe if th
 
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
 
-## 📚 Practical Wiki
+## Central documentation
 
-The [GitHub Wiki](https://github.com/SilverCrow2323/Don-t-OpenYourVita/wiki) covers installation, the expected `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); maintainers can publish with `sh tools/publish_wiki.sh`.
+The maintained installation guide, game-data path and troubleshooting notes are now centralized in the [Ren'Py PSVita Ports documentation](https://github.com/SilverCrow2323/renpy-psvita-ports/tree/main/docs/ports/dont-open-your-eyes). This repository remains the port source and release location. Report port-specific build issues through this repository's Issues tab.
